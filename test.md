@@ -82,8 +82,12 @@ sup/sub: 2^48^ , H~2~O
 $\mathbb{F}_2$ matrix
 
 $$
-F = ma
+x = \frac{1}{2} at^{2}
 $$
+
+```math
+x = \frac{1}{2} at^{2}
+```
 
 この文章はフッターに送られる [^要出典]
 [^要出典]: 要出典
@@ -120,23 +124,3 @@ this is [[admonition]] string
 - [ ] unchecked
 
 
-
-## demon
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-          displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
-          processEscapes: true
-        },
-        TeX: {
-          equationNumbers: {
-            autoNumber: 'AMS'
-          }
-        },
-        "HTML-CSS": {
-          imageFont: null
-        }
-      });
-  </script>
-  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.1-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
