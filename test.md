@@ -103,15 +103,22 @@ HTML とは?
 みかん
 : 黄色でおいしい
 
-## note
+## あどもにしょん
 
 !!! note "おためし"
 	なんかいろいろ掛ける?
 	二行とか
 
+!!! note
+	これは note です
+
+!!! error
+	これは error です
+
+
 [ツールチップ?](https://www.google.com){: titile="google is god"}
 
-this is [[admonition]] string
+this is [[wikilink]] string
 
 
 \## escaped chapter
